@@ -1,0 +1,22 @@
+.task-item-header{
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  padding:10px;
+}
+
+.task-item{
+  margin-left: 40px;
+}
+
+/* space between input and button */
+input, button {
+  margin: 5px;
+}
+
+#task-input{
+  width: 250px;
+  height: 40px;
+  border-radius: 10%;
+}

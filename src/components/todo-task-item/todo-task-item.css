@@ -1,0 +1,13 @@
+.tasks-header{
+  display: flex;
+  flex-direction: column;
+}
+.task{
+  cursor: pointer;
+}
+#on{
+  text-decoration: line-through;
+}
+#off{
+  text-decoration: none;
+}
